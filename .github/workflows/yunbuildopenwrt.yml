@@ -14,7 +14,7 @@ on:
     branches: [ main ]
 
 env:
-  REPO_URL: https://github.com/openwrt2223/openwrt
+  REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   OPENWRTSRC: openwrtsrc
   FEEDS_CONF: feeds.conf.default
